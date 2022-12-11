@@ -1,15 +1,7 @@
 #include <Cactus.h>
 
 class Sandbox : public Cactus::Application {
-	
 public:
-	Sandbox() {
-
-	}
-
-	~Sandbox() {
-
-	}
 
 };
 
